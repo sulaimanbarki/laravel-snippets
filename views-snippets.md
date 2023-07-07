@@ -11,7 +11,9 @@
         ->groupBy('district_id')
         ->get();
 
-    // then in the blade file
+    // then in the blade file, inside the <script> tag
+    <script>
     var total = {!! json_encode($patients_statistics->pluck('total')) !!} ;
     var district_name = {!! json_encode($patients_statistics->pluck('district_name')) !!} ;
+    </script>
 ```
