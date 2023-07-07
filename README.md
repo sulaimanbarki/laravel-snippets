@@ -6,4 +6,4 @@ An idea by [SulaimanBarki](https://github.com/sulaimanbarki) and [IMRAN ALI](htt
 
 ## Table of contents
 
-- [DB Models and Eloquent](db-models-and-eloquent.md) (98 tips)
+- [Laravel Blade Files (Views)](views-snippets.md) (1 tip(s))
