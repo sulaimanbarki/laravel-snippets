@@ -7,3 +7,5 @@ An idea by [SulaimanBarki](https://github.com/sulaimanbarki) and [IMRAN ALI](htt
 ## Table of contents
 
 - [Laravel Blade Files (Views)](views-snippets.md) (1 tip(s))
+- [Laravel Helpers](helpers.md) (2 tip(s))
+- [Eloquent relationship in model](eloquest-relationship.md) (1 tip(s))

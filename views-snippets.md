@@ -5,7 +5,7 @@
 ### Parse laravel $variables in Blade <script> tag
 
 ```php
-    // get statistics for all districts group by district
+    // get statistics for all districts group by district, in controller
     $patients_statistics = Patient::select('district_id')
         ->selectRaw('count(*) as total')
         ->groupBy('district_id')
