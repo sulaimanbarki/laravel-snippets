@@ -1,6 +1,6 @@
 ## Views (Blade Files)
 
-- [Parse laravel $varaiables in Blade <script> tag](#parse-laravel-variables-in-blade-script-tag)
+- [Parse laravel $varaiables in Blade files <script> tag](#parse-laravel-variables-in-blade-script-tag)
 
 ### Parse laravel $variables in Blade <script> tag
 
